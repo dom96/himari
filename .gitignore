@@ -1,0 +1,7 @@
+compile/
+iso/
+*.o
+*.elf
+*.img
+*.iso
+*.ao
